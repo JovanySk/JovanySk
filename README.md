@@ -1,5 +1,7 @@
 # Hi, I'm Jovany 👋
 
+🌐 **Portfolio:** [jovanysk.github.io](https://jovanysk.github.io) (try **JovanyOS**, a desktop mode with a terminal that answers questions about me using in-browser BM25 retrieval)
+
 **Software developer · Applied AI (RAG & generative AI) · Backend, Python & AWS**
 Computer Systems Engineering student at ITS Tantoyuca (Mexico), currently a **Software & AI developer resident at INTESC**. Open to remote roles.
 
