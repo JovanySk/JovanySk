@@ -14,6 +14,8 @@ At INTESC I **rebuilt end to end** a **100% local RAG assistant** (25 changes, P
 
 | Project | What it shows | Stack |
 |---|---|---|
+| [**ordercontext-mcp**](https://github.com/JovanySk/ordercontext-mcp) | AI assistant over a Java API via a **read-only MCP server** (5 typed tools); 72 JUnit + 15 Vitest tests, CI | Spring Boot 3.5 · TypeScript · MCP SDK |
+| [**smartticket**](https://github.com/JovanySk/smartticket) | Ticket triage ML API: type **macro-F1 0.85** (baseline 0.14), confidence-based human review | FastAPI · scikit-learn · Docker |
 | [**qaflow-api**](https://github.com/JovanySk/qaflow-api) | Manufacturing REST API, **65 tests green in CI** (Testcontainers MySQL) | Java 17 · Spring Boot 3.5 · JWT · Flyway |
 | [**browsing-history-mirror**](https://github.com/JovanySk/browsing-history-mirror) | Real-time sync in production: **94,702 records, 0 lost**, ~0.15 s pages | Chrome MV3 · Python · SQLite · systemd |
 | [**zyra-compiler**](https://github.com/JovanySk/zyra-compiler) | **My own programming language**: lexer → AST → IR → optimizer → **x86-64 NASM** | Java · JFlex · NASM |
