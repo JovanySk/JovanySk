@@ -4,7 +4,7 @@
 Computer Systems Engineering student at ITS Tantoyuca (Mexico), currently a **Software & AI developer resident at INTESC**. Open to remote roles.
 
 ### 🔬 What I'm working on
-At INTESC I led **25 changes (Phases 0–3)** on a **100% local RAG assistant** that answers from technical manuals with citations (Next.js, Django REST, PostgreSQL/pgvector, Ollama, Docker):
+At INTESC I **rebuilt end to end** a **100% local RAG assistant** (25 changes, Phases 0–3) that answers from technical manuals with citations (Next.js, Django REST, PostgreSQL/pgvector, Ollama, Docker):
 - **Quality:** correct chat answers rose from **66% to 100%**, all **16 critical bugs** were closed, and time to first token dropped from 20–155 s to **~1 s**.
 - **Search:** multilingual hybrid search (Qwen embeddings, HNSW + Spanish full-text, RRF, LLM reranking) moved a key passage from **rank 16 to 1**, and the system scored **15/15** on a real 831-page library.
 - **Operations (Phase 3):** background indexing (uploads answer in **<1 s**), daily **SHA-256-verified backups** (restore in 74 s), a multi-user query queue on PostgreSQL locks and a 15-action audit log.
