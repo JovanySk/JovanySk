@@ -18,6 +18,7 @@ At INTESC I **rebuilt end to end** a **100% local RAG assistant** (25 changes, P
 | [**smartticket**](https://github.com/JovanySk/smartticket) | Ticket triage ML API: type **macro-F1 0.85** (baseline 0.14), confidence-based human review | FastAPI · scikit-learn · Docker |
 | [**spring-cloud-microservices**](https://github.com/JovanySk/spring-cloud-microservices) | Gateway + Eureka + Config Server + 3 services with own DBs; downstream failures mapped to 503; 41 tests | Spring Cloud 2025 · OpenFeign · Docker |
 | [**mi-mascota-citas**](https://github.com/JovanySk/mi-mascota-citas) | Vet appointments: AJAX availability, overlap checks, appointment state machine; 48 xUnit tests | ASP.NET Core 9 MVC · EF Core · SQL Server |
+| [**plant-doctor-ai**](https://github.com/JovanySk/plant-doctor-ai) | Photo → plant diagnosis with **Gemini vision**, schema-validated JSON, key kept server-side, voice output; 22 tests | React · Express · TypeScript · zod |
 | [**qaflow-api**](https://github.com/JovanySk/qaflow-api) | Manufacturing REST API, **65 tests green in CI** (Testcontainers MySQL) | Java 17 · Spring Boot 3.5 · JWT · Flyway |
 | [**browsing-history-mirror**](https://github.com/JovanySk/browsing-history-mirror) | Real-time sync in production: **94,702 records, 0 lost**, ~0.15 s pages | Chrome MV3 · Python · SQLite · systemd |
 | [**zyra-compiler**](https://github.com/JovanySk/zyra-compiler) | **My own programming language**: lexer → AST → IR → optimizer → **x86-64 NASM** | Java · JFlex · NASM |
